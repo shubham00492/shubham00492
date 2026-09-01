@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
+
+Junior AWS Cloud Engineer from Pune
+
+- 🔭 Currently building: 6 AWS Projects in 5 Days (4-8 Sept)
+- 🌱 Learning: Terraform, VPC, ALB, Lambda
+- 👯 Looking for: Junior Cloud Role in Hinjewadi
+- 📂 Portfolio: [aws-junior-portfolio](https://github.com/shubham00492/aws-junior-portfolio)
+- 📫 Pune | Open to Work
+
+### 🔥 Streak
+I commit daily - Check my portfolio repo!## Hi there 👋
 
 <!--
 **shubham00492/shubham00492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
