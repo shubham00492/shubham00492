@@ -2,7 +2,7 @@
 
 Junior AWS Cloud Engineer from Pune
 
-- 🔭 Currently building: 6 AWS Projects in 5 Days (4-8 Sept)
+- 🔭 Currently building: 6 AWS Projects in 5 Days 
 - 🌱  Terraform, VPC, ALB, Lambda, docker
 - 👯 Looking for: Junior Cloud Role in Baner
 - 📂 Portfolio: [aws-junior-portfolio](https://github.com/shubham00492/aws-junior-portfolio)
