@@ -1,3 +1,4 @@
+![Banner](banner.svg)
 # Hi, I'm Shubham 👋
 
 Junior AWS Cloud Engineer from Pune
